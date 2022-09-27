@@ -1,0 +1,38 @@
+header{
+    width: 300px;
+    padding: 20px;
+    height: auto;
+    border-top-right-radius: 30px;
+    background-color: #fff;
+}
+
+ul{
+    list-style: none;
+}
+.logo{
+    width: 140px;
+}
+.nav-item{
+    margin: 40px 40px;
+    color: #96a0b5;
+    font-weight: 100;
+    font-family: 'roboto-regular';
+    letter-spacing: 1.5px;
+    display: flex;
+    align-items: center;
+}
+.incon-menu{
+    margin-right: 10px;
+    color: #081b2f;
+}
+a,li{
+    text-decoration: none;
+    transition: 0.5s;
+}
+.nav-list a:hover,.nav-list li:hover{
+    text-decoration: none;
+    color: #081b2f;
+}
+.nav-link:visited{
+    color: red;
+}

@@ -1,0 +1,38 @@
+.login{
+    margin: auto;
+    background-color: #fff;
+    height: 500px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 6px;
+    box-shadow: 2px 2px 8px 5px rgba(0, 0, 0, 0.137);
+}
+.login .logo{
+    width: 200px;
+}
+.formlogin{
+    margin-top: 30px;
+    width: 100%;
+}
+.formlogin label{
+    margin-top: 18px;
+}
+.formlogin input{
+    width: 100%;
+    height: 35px;
+}
+
+.formlogin button{
+    width: 100%;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #081c30;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: .8px;
+    cursor: pointer;
+}

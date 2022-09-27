@@ -1,0 +1,86 @@
+.recents-container{
+    width: 450px;
+    background-color: #fff;
+    border-radius: 10px;
+    height: 300px;
+    position: relative;
+    scroll-behavior: smooth;
+    
+}
+.recents-cabecalho{
+    position: relative;
+}
+.title-recents{
+    color: #5f6464;
+    font-size: 14px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+.icon-recents{
+    right: 20px;
+    position: absolute;
+    top: 20px;
+    color: rgb(0, 102, 255);
+    cursor: pointer;
+}
+
+table {
+    margin-top: 60px;
+    border-collapse: collapse;
+  }
+  .table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #5f6464;
+    font-size: 14px;
+  }
+  
+  .table th,
+  .table td {
+    padding: 0.75rem;
+    vertical-align: top;
+    text-align: center;
+  }
+  .table td {
+    border-bottom: 2px solid #dee2e6;
+  }
+
+  .table td{
+      color: #8e9696;
+  }
+  
+  .table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+  }
+  
+  .table tbody + tbody {
+    border-top: 2px solid #dee2e6;
+  }
+  
+  .table-sm th,
+  .table-sm td {
+    padding: 0.3rem;
+  }
+  
+  .table-bordered {
+    border: 1px solid #dee2e6;
+  }
+  
+  .table-bordered th,
+  .table-bordered td {
+    border: 1px solid #dee2e6;
+  }
+  
+  .table-bordered thead th,
+  .table-bordered thead td {
+    border-bottom-width: 2px;
+  }
+  
+  .table-borderless th,
+  .table-borderless td,
+  .table-borderless thead th,
+  .table-borderless tbody + tbody {
+    border: 0;
+  }

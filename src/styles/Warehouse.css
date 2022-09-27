@@ -1,0 +1,25 @@
+.warehouse{
+    position: relative;
+    margin-top: 100px;
+    border-radius: 8px;
+    font-family: 'roboto-medium';
+}
+.warehouse .buttons{
+    position: absolute;
+    bottom: 100%;
+    display: flex;
+}
+.buttons h2{
+    background-color: #fff;
+    padding: 15px;
+    font-size: 16px;
+    margin-right: 10px;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 2px;
+}
+a{
+    color: #fff;
+}

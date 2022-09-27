@@ -1,0 +1,40 @@
+.cards{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.card{
+    width: 270px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    padding: 16px;
+    border-radius: 8px;
+    color: #fff;
+}
+.invoiceToday{
+    background-image: linear-gradient(to bottom right, #224161 30%, rgb(10, 86, 148));
+}
+.mounthToday{
+    background-image: linear-gradient(to bottom right, #ed2258 9%, #ff5633);
+}
+.todaySales{
+    background-image: linear-gradient(to bottom right, #f7770f, #fcc16e);
+}
+.mounthSales{
+    background-image: linear-gradient(to bottom right, #21c700, #7df34edc);
+}
+.card p{
+    margin-bottom: 6px;
+}
+.card .icon{
+    font-size: 40px;
+    margin-right: 20px;
+}
+.qtd{
+    display: flex;
+    align-items: center;
+}
+.card .icon-less{
+    font-size: 16px;
+}

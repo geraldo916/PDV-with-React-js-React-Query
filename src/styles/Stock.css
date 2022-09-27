@@ -1,0 +1,22 @@
+.stock{
+    position: relative;
+    margin-top: 100px;
+    border-radius: 8px;
+    font-family: 'roboto-medium';
+}
+.stock .buttons{
+    position: absolute;
+    bottom: 100%;
+    display: flex;
+}
+.entriesItem{
+    display: flex;
+    align-items: center;
+}
+a{
+    color: #fff;
+}
+.listEntries li{
+    display: flex;
+    justify-content: space-between;
+}

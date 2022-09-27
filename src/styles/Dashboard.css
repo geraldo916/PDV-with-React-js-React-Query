@@ -1,0 +1,14 @@
+.dashboard-element{
+    margin-top: 35px;
+    display: flex;
+    justify-content: space-between;
+}
+.areaChart{
+    width: 700px;
+    height: 300px;
+    background-color: #fff;
+    border-radius: 12px;
+    padding: 15px;
+    font-size: 12px;
+    letter-spacing: .9px;
+}

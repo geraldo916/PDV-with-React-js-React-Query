@@ -1,0 +1,21 @@
+.sales-section{
+    display: flex;
+}
+.contents{
+    background-color: #fff;
+    width: 100%;
+    border-bottom-right-radius: 12px;
+    border-top-right-radius: 12px;
+    padding: 20px;
+}
+.sales-action h3{
+    width: 200px;
+    border: 1px solid;
+    padding: 16px;
+}
+.sales{
+    border-radius: 12px;
+}
+.bottonNewSale{
+    padding: 20px 0 0 20px;
+}

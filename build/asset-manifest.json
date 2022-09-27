@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e40497ca.css",
+    "main.js": "/static/js/main.a5f9b623.js",
+    "static/media/charging.gif": "/static/media/charging.14cef69641ed7a7d5a5e.gif",
+    "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.7429a63c09f79a1760b0.ttf",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
+    "index.html": "/index.html",
+    "main.e40497ca.css.map": "/static/css/main.e40497ca.css.map",
+    "main.a5f9b623.js.map": "/static/js/main.a5f9b623.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e40497ca.css",
+    "static/js/main.a5f9b623.js"
+  ]
+}
